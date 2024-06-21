@@ -1,6 +1,6 @@
 import React from 'react'
 // import { useState } from 'react'
-import Landing from './Landing'
+import Landing from './Landing';
 import '../css/App.css'
 
 const App = () => {
@@ -33,7 +33,7 @@ const App = () => {
 
   return (
     <>
-    <Landing />
+      <Landing />
     </>
   )
 }
