@@ -32,7 +32,9 @@ const App = () => {
   // )
 
   return (
+    <>
     <Landing />
+    </>
   )
 }
 

@@ -1,0 +1,29 @@
+.landingpage {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #d6ebde;
+  padding-bottom: 9rem;
+  height: 100vh;
+}
+
+.sushi {
+  position: absolute;
+  display: flex;
+  margin: auto;
+}
+
+.maintext_name {
+  color: #000;
+  margin: 10rem 5rem auto auto;
+  padding: 0;
+  width: auto;
+}
+
+.uptext h5 {
+  margin: 0;
+  text-align: left;
+  font-size: 67px;
+  font-weight: 500;
+}

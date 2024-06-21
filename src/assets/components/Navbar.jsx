@@ -1,7 +1,8 @@
 import React from 'react'
 import { motion } from "framer-motion";
 
-import '../css/App.css'
+
+import '../css/navbar.css';
 
 const Navbar = () => {
     <>
